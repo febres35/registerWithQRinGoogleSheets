@@ -1,0 +1,26 @@
+Estoy buscando colaboradores para desarrollar un sistema de control de horarios que permita registrar las entradas y salidas de personas dentro de un establecimiento mediante el escaneo de un código QR. La herramienta principal será una hoja de cálculo en Google con Google Script para automatizar el seguimiento de horas trabajadas. La meta es crear una solución sencilla y económica para llevar un control eficiente de la asistencia.
+
+Funcionalidades Requeridas:
+
+Registro mediante Código QR:
+
+Implementar la capacidad de escanear códigos QR para registrar la entrada y salida de cada persona en el establecimiento.
+Hoja de Cálculo en Google:
+
+Crear una hoja de cálculo en Google Sheets para almacenar y organizar los datos de asistencia.
+Conteo de Horas:
+
+Desarrollar funciones de Google Script para calcular automáticamente la cantidad de horas trabajadas por cada persona, tanto en suma como en resta.
+Saldo de Horas:
+
+Establecer un sistema que permita a cada persona verificar su saldo de horas, indicando si tienen horas a favor o en contra.
+Requisitos Adicionales:
+
+La solución debe ser económica y no demasiado robusta para cumplir con los objetivos de eficiencia y costo.
+Se aceptan sugerencias para mejorar la usabilidad y eficacia del sistema.
+Observaciones:
+
+La simplicidad y facilidad de uso son prioritarias.
+La integración con Google Sheets y Google Script es preferida, pero otras propuestas son bienvenidas.
+¿Interesado en Colaborar?
+Si tienes experiencia en el desarrollo de soluciones similares y te interesa participar en este proyecto, por favor, contáctame. ¡Tu colaboración será muy apreciada!

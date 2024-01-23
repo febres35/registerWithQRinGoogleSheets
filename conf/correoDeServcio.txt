@@ -1,0 +1,3 @@
+cuentaDeServicio: registerwithqringooglesheet@silken-oxygen-412123.iam.gserviceaccount.com
+
+urlSheets:https://docs.google.com/spreadsheets/d/1PEpbe_uRVjoUIJ_dXcoy3owV2K3yRr-2wzksUcShdm8/edit#gid=0
