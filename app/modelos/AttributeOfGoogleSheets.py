@@ -6,7 +6,7 @@ class AttributeOfGoogleSheets:
         self.__nationaIdentifyDocument__ = NID
         self.__firstName__ = fN
         self.__lastName__ = lN
-        self.__passin__ = datetime.now().strftime('%H:%M:%S')
+        self.__passin__ = datetime.now().strftime('%H:%M')
         self.__date__ = datetime.now().strftime('%Y-%m-%d')
 
     def __str__(self) -> str:

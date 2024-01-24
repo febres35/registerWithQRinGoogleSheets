@@ -1,4 +1,5 @@
 from os import path
+from sqlalchemy.ext import declarative_base
 
 dirName = 'conf'
 fileName = 'key.json'
@@ -15,4 +16,6 @@ def create_app():
     }
 
     return config
+
+db = declarative_base()
 
