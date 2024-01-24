@@ -1,6 +1,5 @@
 from os import path
 
-
 dirName = 'conf'
 fileName = 'key.json'
 
@@ -17,4 +16,3 @@ def create_app():
 
     return config
 
-config = create_app()

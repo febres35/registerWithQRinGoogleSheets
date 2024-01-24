@@ -1,7 +1,6 @@
-from app import config
-from app.controller import RecordDatainGoogleSheet
 
+from app.controller.RecordDatainGoogleSheet import RecordDatainGoogleSheet
+from app import create_app
 
-
-if __name__ == '__main__':
-    
+app = RecordDatainGoogleSheet(create_app())
+app.writeInGoogleSheet()
