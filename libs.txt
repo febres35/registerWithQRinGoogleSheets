@@ -1,0 +1,6 @@
+########## Para el modulo de QR #############
+PyQRCode
+pyzbar
+pypng
+opencv-python
+#numpy
